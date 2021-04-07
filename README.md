@@ -17,5 +17,5 @@ php bin/magento setup:static-content:deploy
 ```
 
 ## Screenshot
-![ScreenShot](https://github.com/mateussantin/magento2-admintheme-dark/screenshot/login.png)
-![ScreenShot](https://github.com/mateussantin/magento2-admintheme-dark/screenshot/dashboard.png)
+![ScreenShot](https://github.com/mateussantin/magento2-admintheme-dark/blob/main/screenshot/login.png)
+![ScreenShot](https://github.com/mateussantin/magento2-admintheme-dark/blob/main/screenshot/dashboard.png)
